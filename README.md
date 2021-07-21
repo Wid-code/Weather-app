@@ -1,5 +1,5 @@
 # Getting Started with Create React App
-
+<img src="https://raw.githubusercontent.com/Wid-code/Weather-app/main/weatherapp.JPG"/>
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
